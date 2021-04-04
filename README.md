@@ -37,12 +37,6 @@
 </p>
 
 
-<!--START_SECTION:waka-->
-```text
-YAML       1 hr 50 mins    ██████████████▒░░░░░░░░░░   56.90 % 
-Markdown   1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   31.88 % 
-JSON       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Go         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-MATLAB     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-```
-<!--END_SECTION:waka-->
+ <!-- waka-box start -->
+ 
+ <!-- waka-box end -->
