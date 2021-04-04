@@ -42,7 +42,7 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/4ee62e60852b37982d499d809324675b" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Go         🕓 3h12m █████████▊░░░░░░░░░░░░░░░░░░ 35.0%
 PHP        🕓 2h17m ██████▉░░░░░░░░░░░░░░░░░░░░░ 24.9%
@@ -59,7 +59,7 @@ INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/4ba415adb0cbbc59f56a8e44fe24b5d1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
