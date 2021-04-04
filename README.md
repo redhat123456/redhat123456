@@ -53,7 +53,7 @@ INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+[powered by waka-box-go](https://github.com/redhat123456/waka-box-go)
 
 </td>
 <td valign="top" width="50%">
@@ -70,7 +70,7 @@ INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
-[powered by steam-box](https://github.com/YouEclipse/steam-box)
+[powered by steam-box](https://github.com/redhat123456/steam-box)
 
 </td>
 </tr>
