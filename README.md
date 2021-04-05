@@ -42,14 +42,14 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-<script src="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b.js"></script>
+
 #### <a href="https://gist.github.com/4ee62e60852b37982d499d809324675b" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go         🕓 3h12m █████████▊░░░░░░░░░░░░░░░░░░ 35.0%
-PHP        🕓 2h17m ██████▉░░░░░░░░░░░░░░░░░░░░░ 24.9%
-Other      🕓 1h15m ███▊░░░░░░░░░░░░░░░░░░░░░░░░ 13.8%
-Makefile   🕓 38m   █▉░░░░░░░░░░░░░░░░░░░░░░░░░░  6.9%
-INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
+Markdown   55 mins        ███████████▌░░░░░░░░░  55.0%
+JavaScript 29 mins        ██████▏░░░░░░░░░░░░░░  29.2%
+HTML       9 mins         █▉░░░░░░░░░░░░░░░░░░░   9.1%
+YAML       6 mins         █▎░░░░░░░░░░░░░░░░░░░   6.2%
+CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box . -->
 <!-- waka-box end -->
@@ -62,11 +62,11 @@ INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4ba415adb0cbbc59f56a8e44fe24b5d1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
-🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🎮 Apex Legends                     🕘 44 hrs 13 mins
-💻 Wallpaper Engine                 🕘 41 hrs 32 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
+🎮 World of Warships                🕘 24 hrs 13 mins
+🎮 Circle Empires Rivals            🕘 15 hrs 54 mins
+🎮 Total War: SHOGUN 2              🕘 10 hrs 57 mins
+🎮 Titanfall® 2                     🕘 7 hrs 36 mins
+🎮 Plants vs. Zombies: Battle for Neighborville 🕘 4 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
