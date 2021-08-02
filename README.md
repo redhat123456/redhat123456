@@ -6,7 +6,7 @@
 
 * 个人博客：`https://redhat123456.github.io/`
 * 菜的抠脚的一个普通大学生,有着想开发出一款劲爆的游戏的梦想，认清现实后寻找到了前端方向并且不愿放弃初心的一个纯粹的人
-* 弄了个微信小程序【完工】微信小程序项目地址👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise ★1👈</a>
+* 弄了个微信小程序【完工】微信小程序项目地址👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - up体能训练
 * 学了`HTML`/`CSS`/`Javascript`/`python`
 
 正在：
