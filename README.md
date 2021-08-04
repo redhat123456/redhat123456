@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-Go-2793e6?style=flat-square&logo=Go&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />
 </p>
 
+<p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点我快速导航😋</a>👈</p>
+
 * 个人博客：`https://redhat123456.github.io/`
 * 菜的抠脚的一个普通大学生,有着想开发出一款劲爆的游戏的梦想，认清现实后寻找到了前端方向并且不愿放弃初心的一个纯粹的人
 * 弄了个微信小程序【完工】微信小程序项目地址👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - up体能训练
