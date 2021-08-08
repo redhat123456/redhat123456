@@ -3,9 +3,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-Go-2793e6?style=flat-square&logo=Go&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />
 </p>
-
+<p align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+</p>
 <p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点我快速导航😋</a>👈</p>
 
 * 个人博客：`https://redhat123456.github.io/`
