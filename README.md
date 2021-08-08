@@ -43,7 +43,14 @@
   <a href="https://www.zhihu.com/people/lan-de-qi-ming-liao-5" target="_blank">知乎</a>
 </p>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<b>
+<image src='https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm' height= 141></image>
+</b>
+<b>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm ' height= 141></image>
+</b>
+
+<image src='https://github-profile-trophy.vercel.app/?username=redhat123456&theme=nord'></image>
 
 <table>
 <tr>
