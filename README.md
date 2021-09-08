@@ -12,11 +12,15 @@
 * 弄了个微信小程序【完工】微信小程序项目地址👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - up体能训练
 * 学了`HTML`/`CSS`/`Javascript`/`python`
 
+联系我：
+
+* 使用<a href="" >issue</a>来联系我
+* 邮箱私聊 `1907065810@qq.com`
+
 正在：
 
 * 学习微信小游戏和微信小程序
 * 开发一款基于hexo的主题、试着努力变强
-* 邮箱私聊 `1907065810@qq.com`
 * 正在学习react和Vue框架
 * 一件翻译小事👉<a href="https://github.com/redhat123456/html">翻译HTML</a>👈
 * 学习机器学习🛠
