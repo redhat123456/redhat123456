@@ -14,7 +14,7 @@
 
 联系我：
 
-* 使用<a href="" >issue</a>来联系我
+* 使用<a href="https://github.com/redhat123456/redhat123456/issues/new" >issue</a>来联系我
 * 邮箱私聊 `1907065810@qq.com`
 
 正在：
