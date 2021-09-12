@@ -5,33 +5,33 @@
 </p>
 
 
-<p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点我快速导航😋</a>👈</p>
+<p align="center">👉<a  href="https://redhat123456.github.io/router_index/">Click me to navigation😋</a>👈</p>
 
-* 个人博客：`https://redhat123456.github.io/`
-* 菜的抠脚的一个普通大学生,有着想开发出一款劲爆的游戏的梦想，认清现实后寻找到了前端方向并且不愿放弃初心的一个纯粹的人
-* 弄了个微信小程序【完工】微信小程序项目地址👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - up体能训练
-* 学了`HTML`/`CSS`/`Javascript`/`python`
+* My blog：`https://redhat123456.github.io/`
+* An ordinary college student, who has a dream of launching an exciting game, is a pure person who finds the front direction after recognizing the reality and refuses to give up his original aspiration. 
+* Got a micro channel small program 【completed】 micro channel small program project address👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - upPhysicalExercise
+* To learn the `HTML`/`CSS`/`Javascript`/`python`
 
-联系我：
+To contact me：
 
-* 使用<a href="https://github.com/redhat123456/redhat123456/issues/new" >issue</a>来联系我
-* 邮箱私聊 `1907065810@qq.com`
+* Use <a href="https://github.com/redhat123456/redhat123456/issues/new" >issue</a> to contact me
+* Use Mail to private chat me `1907065810@qq.com`
 
-正在：
+To Do：
 
-* 学习微信小游戏和微信小程序
-* 开发一款基于hexo的主题、试着努力变强
-* 正在学习react和Vue框架
-* 一件翻译小事👉<a href="https://github.com/redhat123456/html">翻译HTML</a>👈
-* 学习机器学习🛠
-* 十个前端小游戏&十个前端美化至极的·项目🚀
-* 暑假期间协助校内老师重新美化公司Web前端页面<a href=""></a>
+* Learn wechat mini games and mini programs
+* Develop a hexo theme and try to be strong
+* Learning the React and Vue frameworks
+* A small matter of translation👉<a href="https://github.com/redhat123456/html">translation the HTML</a>👈
+* Learning machine learning🛠
+* Ten front end mini-games & ten front end glorified projects🚀
+* During the summer vacation, I assisted the school teachers to beautify the front page of the company's Web<a href=""></a>
 
-自我注意：
+Pay attention to myself：
 
-* 每次学习时，手机必需关机
-* 避免不必要的交流，使用语言简洁、明了(把话说清楚！！！)
-* 学习时，认真投入；玩时，放松为主；交流时，认真面对(切勿消极面对！！！)
+* The cell phone must be turned off every time I study
+* Avoid unnecessary communication and use short and clear language (speak clearly！！).
+* When learning, be earnest; When playing, relax; Be serious (don't be negative！！) when communicating.
 
 ---
 
