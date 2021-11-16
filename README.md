@@ -9,7 +9,7 @@
 
 * My blog：`https://redhat123456.github.io/`
 * 一个梦想着开发出一款劲爆的游戏的普通大学生，是一个在认清现实后找到前进方向，不放弃最初理想的纯粹的人.
-* 已学 `HTML`/`CSS`/`Javascript`/`python`/`Vue`
+* 已学 `HTML`/`CSS`/`Javascript`/`python`/`Vue`/`EJS`
 
 和我联系🌿：
 
