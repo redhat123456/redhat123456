@@ -16,7 +16,7 @@
 * 使用 <a href="https://github.com/redhat123456/redhat123456/issues/new" >issue</a> 来与我取得联系~
 * 使用电子邮箱把你想说的话发送到 `1907065810@qq.com` ,我会在第一时间回复你👍.
 
-主要奉献&代码&作品：
+主要奉献&代码&作品🌾：
 + 小程序
   - 一款将运动健身、视频播放、计划制定等等功能于一身的微信小程序👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - upPhysicalExercise
   - 一款无需后端集多项查询功能于一身的微信小程序👉<a href="https://github.com/redhat123456/Tanger_query">Tanger_query</a> 👈★4 - Tanger_query
@@ -29,18 +29,18 @@
   - HTML国际标准中国化👉<a href="https://github.com/redhat123456/html">html</a> 👈 - html
 + 后端开发
 
-已完成：
+已完成🌴：
 * 开发一款hexo主题
 * 在暑假期间，我协助学校老师美化了老师公司网页
 
-正在做：
+正在做🍃：
 * 尝试用`Go`写后端
 * 学习`Vue`和`React`框架
 * 一件翻译小事👉<a href="https://github.com/redhat123456/html">translation the HTML</a>👈
 * 学习机器学习🛠
 * 十个H5小游戏 & 十个极美极简的前端页面🚀
 
-自我反省&注意：
+自我反省&注意🍁：
 
 * 避免不必要的沟通，使用简短清晰的语言(说得清楚!!)
 * 学习时，要认真学;玩时,尽量放松;交流时要认真(不要消极!!)
