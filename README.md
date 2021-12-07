@@ -23,7 +23,7 @@
 + hexo
   - 基于Hexo具有MiHoYo风格的hexo主题👉<a href="https://github.com/redhat123456/hexo-theme-MiHoYo">hexo-theme-MiHoYo</a> 👈★7 - hexo-theme-MiHoYo
 + Web前端（单个页面欣赏）
-  - 个人简历页面👉<a href="https://github.com/redhat123456/resume">resume</a> 👈★4 - resume
+  - 个人简历页面👉<a href="https://github.com/redhat123456/resume">resume</a> 👈★5 - resume
 + Web前端（系统的集成页面）
 + 翻译
   - HTML国际标准中国化👉<a href="https://github.com/redhat123456/html">html</a> 👈 - html
