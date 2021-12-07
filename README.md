@@ -18,7 +18,7 @@
 
 主要奉献&代码&作品🌾：
 + 小程序
-  - 一款将运动健身、视频播放、计划制定等等功能于一身的微信小程序👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★1 - upPhysicalExercise
+  - 一款将运动健身、视频播放、计划制定等等功能于一身的微信小程序👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★3 - upPhysicalExercise
   - 一款无需后端集多项查询功能于一身的微信小程序👉<a href="https://github.com/redhat123456/Tanger_query">Tanger_query</a> 👈★4 - Tanger_query
 + hexo
   - 基于Hexo具有MiHoYo风格的hexo主题👉<a href="https://github.com/redhat123456/hexo-theme-MiHoYo">hexo-theme-MiHoYo</a> 👈★6 - hexo-theme-MiHoYo
