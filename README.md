@@ -19,15 +19,15 @@
 
 主要奉献&代码&作品🌾：
 + 小程序
-  - 一款将运动健身、视频播放、计划制定等等功能于一身的微信小程序👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise) - upPhysicalExercise
-  - 一款无需后端集多项查询功能于一身的微信小程序👉<a href="https://github.com/redhat123456/Tanger_query">Tanger_query</a> 👈★![](https://badgen.net/github/stars/redhat123456/Tanger_query) - Tanger_query
+  - 一款将运动健身、视频播放、计划制定等等功能于一身的微信小程序👉<a href="https://github.com/redhat123456/upPhysicalExercise">upPhysicalExercise</a> 👈★ ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise) - upPhysicalExercise
+  - 一款无需后端集多项查询功能于一身的微信小程序👉<a href="https://github.com/redhat123456/Tanger_query">Tanger_query</a> 👈★ ![](https://badgen.net/github/stars/redhat123456/Tanger_query) - Tanger_query
 + hexo
-  - 基于Hexo具有MiHoYo风格的hexo主题👉<a href="https://github.com/redhat123456/hexo-theme-MiHoYo">hexo-theme-MiHoYo</a> 👈★![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo) - hexo-theme-MiHoYo
+  - 基于Hexo具有MiHoYo风格的hexo主题👉<a href="https://github.com/redhat123456/hexo-theme-MiHoYo">hexo-theme-MiHoYo</a> 👈★ ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo) - hexo-theme-MiHoYo
 + Web前端（单个页面欣赏）
-  - 个人简历页面👉<a href="https://github.com/redhat123456/resume">resume</a> 👈★![](https://badgen.net/github/stars/redhat123456/resume)  - resume
+  - 个人简历页面👉<a href="https://github.com/redhat123456/resume">resume</a> 👈★ ![](https://badgen.net/github/stars/redhat123456/resume)  - resume
 + Web前端（系统的集成页面）
-  - Maple a online Markdown editor 👉<a href="https://github.com/redhat123456/Maple">Maple</a> 👈★![](https://badgen.net/github/stars/redhat123456/Maple) - Maple
-  - 七院创新基地官网 👉<a href="https://github.com/seven-innovation-base/official-website">七院创新基地官网</a> 👈★![](https://badgen.net/github/stars/seven-innovation-base/official-website)  - 七院创新基地官网
+  - Maple a online Markdown editor 👉<a href="https://github.com/redhat123456/Maple">Maple</a> 👈★ ![](https://badgen.net/github/stars/redhat123456/Maple) - Maple
+  - 七院创新基地官网 👉<a href="https://github.com/seven-innovation-base/official-website">七院创新基地官网</a> 👈★ ![](https://badgen.net/github/stars/seven-innovation-base/official-website)  - 七院创新基地官网
 + 翻译
   - HTML国际标准中国化👉<a href="https://github.com/redhat123456/html">html</a> 👈 - html
 + 后端开发
