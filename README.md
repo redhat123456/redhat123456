@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-Go-2793e6?style=flat-square&logo=Go&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />
 </p>
 
-<a href="https://wakatime.com/@af33183b-1f14-4919-b7f7-17da9ae5e142"><img src="https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg" alt="Total time coded since Apr 4 2021" /></a>
+![](https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg)
 
 <p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点击我进行导航😋</a>👈</p>
 
