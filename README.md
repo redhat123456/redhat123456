@@ -1,8 +1,20 @@
 ## Welcome to my __GitHub__ home page~
 ---
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" /> <img src="https://img.shields.io/badge/-Go-2793e6?style=flat-square&logo=Go&labelColor=CCEEFF&logoColor=blue" /> <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wolfram.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mathworks.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sas.svg" width="20" />
+  <a href="https://wakatime.com/@af33183b-1f14-4919-b7f7-17da9ae5e142">
+    <img src="https://cdn.jsdelivr.net/gh/username/repo@latest/path/to/wakatime-badge.svg" alt="wakatime" />
+  </a>
 </p>
+
 
 <p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点击我进行导航😋</a>👈</p>
 
