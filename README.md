@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/-SPSS-006699?style=flat-square&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/-SAS-0071C5?style=flat-square&logo=SAS&logoColor=white" />
   <a href="https://wakatime.com/@af33183b-1f14-4919-b7f7-17da9ae5e142">
-    <img src="https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg" alt="wakatime" />
-  </a>
+  <img src="https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg?v=2" alt="wakatime" />
+</a>
 </p>
 
 
