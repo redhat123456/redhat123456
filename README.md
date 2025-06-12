@@ -80,6 +80,11 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=redhat123456&theme=synthwave" />
+</p>
+
+
 <table>
 <tr>
 <td valign="top" width="50%">
