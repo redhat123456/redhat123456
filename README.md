@@ -1,19 +1,20 @@
 ## Welcome to my __GitHub__ home page~
 ---
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wolfram.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mathworks.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/r.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ibm.svg" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sas.svg" width="20" />
+  <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" /> 
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" /> 
+  <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" /> 
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Mathematica-cc0000?style=flat-square&logo=Wolfram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SPSS-006699?style=flat-square&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SAS-0071C5?style=flat-square&logo=SAS&logoColor=white" />
   <a href="https://wakatime.com/@af33183b-1f14-4919-b7f7-17da9ae5e142">
-    <img src="https://cdn.jsdelivr.net/gh/username/repo@latest/path/to/wakatime-badge.svg" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg" alt="wakatime" />
   </a>
 </p>
+
 
 
 <p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点击我进行导航😋</a>👈</p>
