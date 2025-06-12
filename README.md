@@ -79,6 +79,11 @@
 <tr>
 <td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=default" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />
+
 <!-- waka-box start -->
 
 #### <a href="https://gist.github.com/4ee62e60852b37982d499d809324675b" target="_blank">📊 Weekly development breakdown</a>
