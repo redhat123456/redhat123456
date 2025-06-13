@@ -92,10 +92,12 @@
 #### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📅 Wakatime codetime </a>
 
 <!-- START_GIST -->
+```text
 Markdown....... 2h 34m ..........................7.1%
 TypeScript..... 1h 46m ..........................4.9%
 JSON........... 50m .............................2.4%
 Git Config..... 43m .............................2.0%
+Other.......... 1d 6h ..........................83.7%```
 Other.......... 1d 6h ..........................83.7%<!-- END_GIST -->
 
 [powered by waka-box](https://github.com/redhat123456/waka-box)
