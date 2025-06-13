@@ -17,7 +17,10 @@ jobs:
 
       - name: Fetch Gist Content
         run: |
-          curl -s https://gist.githubusercontent.com/redhat123456/4ee62e60852b37982d499d809324675b/raw -o gist.txt
+          curl -s https://gist.githubusercontent.com/redhat123456/4ee62e60852b37982d499d809324675b/raw > gist.txt
+          echo '```text' > gist_wrapped.txt
+          cat gist.txt >> gist_wrapped.txt
+          echo '```' >> gist_wrapped.txt
 
       - name: Replace content in README
         run: |
@@ -25,7 +28,7 @@ jobs:
             sed -i '/<!-- START_GIST -->/,/<!-- END_GIST -->/{
               /<!-- START_GIST -->/!{/<!-- END_GIST -->/!d}
             }' README.md
-            sed -i '/<!-- START_GIST -->/r gist.txt' README.md
+            sed -i '/<!-- START_GIST -->/r gist_wrapped.txt' README.md
           else
             echo "README.md 中缺少 <!-- START_GIST --> 和 <!-- END_GIST --> 标记，无法更新"
             exit 1
