@@ -1,15 +1,44 @@
-name: Update gist with WakaTime stats
+name: Sync Gist to README
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '*/10 * * * *' # 每10分钟执行一次
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 允许写入仓库内容
+
 jobs:
-  update-gist:
+  sync-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update gist
-        uses: matchai/waka-box@master
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 4ee62e60852b37982d499d809324675b
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Gist content
+        id: fetch_gist
+        run: |
+          GIST_CONTENT=$(curl -s https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b/raw)
+          echo "$GIST_CONTENT" > gist.txt
+          echo "gist_content<<EOF" >> $GITHUB_ENV
+          echo "$GIST_CONTENT" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          NEW_CONTENT="$gist_content"
+          
+          # 如果你希望替换 README 中的某一段区域：
+          sed -i '/<!-- START_GIST -->/,/<!-- END_GIST -->/c\<!-- START_GIST -->\n'"$NEW_CONTENT"'\n<!-- END_GIST -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update README with latest Gist content"
+            git push
+          fi
