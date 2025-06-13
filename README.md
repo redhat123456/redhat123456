@@ -89,18 +89,12 @@
 <tr>
 <td valign="top" width="50%">
 
-<!-- waka-box start -->
+# My README
 
-#### <a href="https://gist.github.com/4ee62e60852b37982d499d809324675b" target="_blank">📊 Weekly development breakdown</a>
-```text
-Markdown   1 hr 49 mins   ███████████▌░░░░░░░░░  55.0%
-YAML       47 mins        ████▉░░░░░░░░░░░░░░░░  23.7%
-JavaScript 29 mins        ███▏░░░░░░░░░░░░░░░░░  15.0%
-HTML       11 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Vue.js     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box . -->
-<!-- waka-box end -->
+<!-- START_GIST -->
+旧内容或占位文本会被替换
+<!-- END_GIST -->
+
 
 [powered by waka-box](https://github.com/redhat123456/waka-box)
 
