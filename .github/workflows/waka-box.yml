@@ -20,7 +20,8 @@ jobs:
           curl -s https://gist.githubusercontent.com/redhat123456/4ee62e60852b37982d499d809324675b/raw > gist.txt
           echo '```text' > gist_wrapped.txt
           cat gist.txt >> gist_wrapped.txt
-          echo '\n```' >> gist_wrapped.txt
+          echo '' >> gist_wrapped.txt
+          echo '```' >> gist_wrapped.txt
 
       - name: Replace Gist content in README.md
         run: |
