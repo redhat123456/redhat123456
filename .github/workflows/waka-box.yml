@@ -1,44 +1,44 @@
 name: Sync Gist to README
 
 on:
-  schedule:
-    - cron: '*/10 * * * *' # 每10分钟执行一次
   workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'  # 每 5 分钟运行一次
 
 permissions:
-  contents: write  # 允许写入仓库内容
+  contents: write
 
 jobs:
-  sync-gist:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Gist content
-        id: fetch_gist
+      - name: Fetch Gist Content
         run: |
-          GIST_CONTENT=$(curl -s https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b/raw)
-          echo "$GIST_CONTENT" > gist.txt
-          echo "gist_content<<EOF" >> $GITHUB_ENV
-          echo "$GIST_CONTENT" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
+          curl -s https://gist.githubusercontent.com/redhat123456/4ee62e60852b37982d499d809324675b/raw -o gist.txt
 
-      - name: Update README.md
+      - name: Replace content in README
         run: |
-          NEW_CONTENT="$gist_content"
-          
-          # 如果你希望替换 README 中的某一段区域：
-          sed -i '/<!-- START_GIST -->/,/<!-- END_GIST -->/c\<!-- START_GIST -->\n'"$NEW_CONTENT"'\n<!-- END_GIST -->' README.md
+          if grep -q "<!-- START_GIST -->" README.md; then
+            sed -i '/<!-- START_GIST -->/,/<!-- END_GIST -->/{
+              /<!-- START_GIST -->/!{/<!-- END_GIST -->/!d}
+            }' README.md
+            sed -i '/<!-- START_GIST -->/r gist.txt' README.md
+          else
+            echo "README.md 中缺少 <!-- START_GIST --> 和 <!-- END_GIST --> 标记，无法更新"
+            exit 1
+          fi
 
-      - name: Commit changes
+      - name: Commit and Push if Changed
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
           if git diff --cached --quiet; then
-            echo "No changes detected."
+            echo "No changes to commit."
           else
-            git commit -m "Update README with latest Gist content"
+            git commit -m "Update README with Gist content"
             git push
           fi
