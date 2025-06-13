@@ -92,7 +92,7 @@
 # My README
 
 <!-- START_GIST -->
-旧内容或占位文本会被替换
+
 <!-- END_GIST -->
 
 
