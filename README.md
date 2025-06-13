@@ -85,10 +85,6 @@
 </p>
 
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 #### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📅 Wakatime codetime </a>
 
 <!-- START_WakaGIST -->
@@ -103,24 +99,5 @@ Other.......... 1d 6h ..........................83.7%
 
 [powered by waka-box](https://github.com/redhat123456/waka-box)
 
-</td>
-<td valign="top" width="50%">
 
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/4ba415adb0cbbc59f56a8e44fe24b5d1" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🎮 World of Warships                🕘 24 hrs 13 mins
-🎮 Circle Empires Rivals            🕘 15 hrs 54 mins
-🎮 Total War: SHOGUN 2              🕘 10 hrs 57 mins
-🎮 Titanfall® 2                     🕘 7 hrs 36 mins
-🎮 Plants vs. Zombies: Battle for Neighborville 🕘 4 hrs 9 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/redhat123456/steam-box)
-
-</td>
-</tr>
-</table>
 
