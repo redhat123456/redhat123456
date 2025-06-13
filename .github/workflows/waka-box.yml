@@ -22,15 +22,19 @@ jobs:
           cat gist.txt >> gist_wrapped.txt
           echo '```' >> gist_wrapped.txt
 
-      - name: Replace content in README
+      - name: Replace Gist content in README.md
         run: |
-          if grep -q "<!-- START_GIST -->" README.md; then
-            sed -i '/<!-- START_GIST -->/,/<!-- END_GIST -->/{
-              /<!-- START_GIST -->/!{/<!-- END_GIST -->/!d}
-            }' README.md
+          if grep -q "<!-- START_GIST -->" README.md && grep -q "<!-- END_GIST -->" README.md; then
+            echo "📝 Replacing old content between START_GIST and END_GIST..."
+            awk '
+              BEGIN { start=0 }
+              /<!-- START_GIST -->/ { print; print_file="gist_wrapped.txt"; start=1; next }
+              /<!-- END_GIST -->/ { start=0 }
+              start==0 { print }
+            ' README.md > README.tmp && mv README.tmp README.md
             sed -i '/<!-- START_GIST -->/r gist_wrapped.txt' README.md
           else
-            echo "README.md 中缺少 <!-- START_GIST --> 和 <!-- END_GIST --> 标记，无法更新"
+            echo "❌ README.md 中缺少 <!-- START_GIST --> 和 <!-- END_GIST -->，无法插入内容。"
             exit 1
           fi
 
@@ -40,8 +44,9 @@ jobs:
           git config user.email github-actions@github.com
           git add README.md
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "✅ No changes to commit."
           else
+            echo "🚀 Committing updated README..."
             git commit -m "Update README with Gist content"
             git push
           fi
