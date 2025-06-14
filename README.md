@@ -80,9 +80,6 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=redhat123456&theme=synthwave" />
-</p>
 
 
 #### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📅 Wakatime codetime </a>
