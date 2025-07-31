@@ -1,9 +1,9 @@
 ## 🌐 Language Selection | 语言选择
 
-| [English](#Welcome to my **GitHub** home page~) | [中文](#欢迎来到我的 **GitHub** 主页~) |
-|--------------------|--------------|
+| [English](#welcome-to-my-github-home-page) | [中文](#欢迎来到我的-github-主页) |
+|:-----------------------------------------:|:-------------------------------:|
 
-## Welcome to my **GitHub** home page~  
+## Welcome to my **GitHub** home page~
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" />  
