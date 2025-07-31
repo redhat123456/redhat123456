@@ -1,6 +1,6 @@
 <!-- 设置语言切换按钮 -->
-<div style="text-align: left; padding: 10px;">
-  <button onclick="switchLang()" style="padding: 5px 12px; border-radius: 6px; border: 1px solid #aaa; background-color: #f0f0f0; cursor: pointer;">
+<div style="position: absolute; top: 15px; right: 15px; z-index: 999;">
+  <button onclick="switchLang()" style="padding: 6px 14px; border-radius: 6px; border: 1px solid #ccc; background-color: #f9f9f9; cursor: pointer;">
     🌐 中文 / English
   </button>
 </div>
