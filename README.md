@@ -18,20 +18,20 @@
 
 <p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点击我进行导航😋</a>👈</p>  
 
----
+
 
 🎓 你好！我是 __一名数学硕士研究生__，就读于桂林电子科技大学(Guilin University of Electronic Technology)的数学硕士目前在读研阶段（Year 0）  
 📌 我的研究方向包括：`PINN`、`谱方法`、`计算数学`、`深度学习`  
 🚀 我热爱开发、探索和分享，梦想发一些~~顶刊~~水刊，在脚踏实地走好科研与工程路！
 
----
+
 
 📝 博客地址：`https://redhat123456.github.io/`  
 📮 联系方式：  
 - 提交 <a href="https://github.com/redhat123456/redhat123456/issues/new" >issue</a> 与我取得联系  
 - 或发送邮件至 `1907065810@qq.com` ，我会尽快回复你！
 
----
+
 
 ## 🎯 主要代码项目与贡献
 
@@ -72,7 +72,6 @@
   计划整理过去在 PINN、数值方法与深度学习结合方面的探索过程，并撰写成系列博客或在线 Wiki。内容涵盖经典方程求解（波动方程、扩散方程、NS 方程）、模型训练技巧、误差分析方法等，逐步构建一个面向科研新手与进阶用户的学习资源库，并在 FEMATHS 官网中逐步发布。
 
 
----
 
 ## 🍁 自我提醒
 
@@ -80,7 +79,6 @@
 - 学习时全力以赴，玩耍时尽情放松  
 - 交流要真诚积极，不要逃避现实  
 
----
 
 <p align="center">  
   <a href="https://redhat123456.github.io" target="_blank">Blog</a> •  
