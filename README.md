@@ -20,9 +20,9 @@
 
 ---
 
-🎓 你好！我是 __一名数学硕士研究生__，目前在读研阶段（Year 0）  
+🎓 你好！我是 __一名数学硕士研究生__，就读于桂林电子科技大学(Guilin University of Electronic Technology)的数学硕士目前在读研阶段（Year 0）  
 📌 我的研究方向包括：`PINN`、`谱方法`、`计算数学`、`深度学习`  
-🚀 我热爱开发、探索和分享，梦想做出一款令人惊叹的游戏，同时也在脚踏实地走好科研与工程路！
+🚀 我热爱开发、探索和分享，梦想发一些~~顶刊~~水刊，在脚踏实地走好科研与工程路！
 
 ---
 
@@ -54,8 +54,8 @@
 
 ## 🏂主要科研项目与奉献
 
-+ **FEMATHS小组官网**[https://github.com/FEMATHS/cm.femaths.space](https://github.com/FEMATHS/cm.femaths.space)：集Wiki、读论文日志于一体的学习官网 ![](https://badgen.net/github/stars/FEMATHS/cm.femaths.space)  
-  - 
++ **计算数学**
+  - **FEMATHS小组官网**[https://github.com/FEMATHS/cm.femaths.space](https://github.com/FEMATHS/cm.femaths.space)：集Wiki、读论文日志于一体的学习官网 ![](https://badgen.net/github/stars/FEMATHS/cm.femaths.space)  
 ---
 
 ## 🚧 正在进行中的计划
