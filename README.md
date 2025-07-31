@@ -33,31 +33,29 @@
 
 ---
 
-## 🎯 主要项目与贡献
+## 🎯 主要代码项目与贡献
 
 + **微信小程序**  
-  - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：集运动健身、视频播放、计划制定于一体  
-    ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
-  - [Tanger_query](https://github.com/redhat123456/Tanger_query)：多项查询功能合集  
-    ![](https://badgen.net/github/stars/redhat123456/Tanger_query)
+  - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：集运动健身、视频播放、计划制定于一体  ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
+  - [Tanger_query](https://github.com/redhat123456/Tanger_query)：多项查询功能合集 ![](https://badgen.net/github/stars/redhat123456/Tanger_query)
 
 + **Hexo 主题**  
-  - [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)：MiHoYo 风格的 Hexo 博客主题  
-    ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo)
+  - [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)：MiHoYo 风格的 Hexo 博客主题 ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo)
 
 + **前端页面**  
-  - [resume](https://github.com/redhat123456/resume)：简洁美观的个人简历页面  
-    ![](https://badgen.net/github/stars/redhat123456/resume)
+  - [resume](https://github.com/redhat123456/resume)：简洁美观的个人简历页面  ![](https://badgen.net/github/stars/redhat123456/resume)
 
 + **系统集成项目**  
-  - [Maple](https://github.com/redhat123456/Maple)：在线 Markdown 编辑器  
-    ![](https://badgen.net/github/stars/redhat123456/Maple)  
-  - [七院创新基地官网](https://github.com/seven-innovation-base/official-website)：七院创新官网  
-    ![](https://badgen.net/github/stars/seven-innovation-base/official-website)
+  - [Maple](https://github.com/redhat123456/Maple)：在线 Markdown 编辑器  ![](https://badgen.net/github/stars/redhat123456/Maple)  
+  - [七院创新基地官网](https://github.com/seven-innovation-base/official-website)：七院创新官网  ![](https://badgen.net/github/stars/seven-innovation-base/official-website)
 
 + **翻译项目**  
   - [HTML国际标准翻译](https://github.com/redhat123456/html)
 
+## 🏂主要科研项目与奉献
+
++ **FEMATHS小组官网**[https://github.com/FEMATHS/cm.femaths.space](https://github.com/FEMATHS/cm.femaths.space)：集Wiki、读论文日志于一体的学习官网 ![](https://badgen.net/github/stars/FEMATHS/cm.femaths.space)  
+  - 
 ---
 
 ## 🚧 正在进行中的计划
