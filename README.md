@@ -73,7 +73,6 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm' height= 141></image>
 </b>
 
-<image src='https://github-profile-trophy.vercel.app/?username=redhat123456&theme=nord'></image>
 
 
   <!-- GitHub Streak -->
