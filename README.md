@@ -30,7 +30,7 @@
 
 + **WeChat Mini Programs**  
   - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise): A WeChat mini program that integrates exercise and fitness, video playback, and plan creation, supporting multi-platform deployment and featuring functions such as check-in records, plan reminders, and course recommendations. ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
-  - [Tanger_query](https://github.com/redhat123456/Tanger_query): A feature-rich query-based mini program covering weather forecasts, package tracking, CET-4/6 scores, campus notifications, and other query functions, with a clean and user-friendly interface. ![](https://badgen.net/github/stars/redhat123456/Tanger_query)
+  - [Tanger_query](https://github.com/redhat123456/Tanger_query): A feature-rich query-based mini program covering weather forecasts, package tracking, and other query functions, with a clean and user-friendly interface. ![](https://badgen.net/github/stars/redhat123456/Tanger_query)
 
 + **Hexo Themes**  
   - [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo): A Hexo theme inspired by the style of the MiHoYo official website, featuring gradient backgrounds and interactive animations. It supports full article pages, category/tag navigation, visitor statistics, and other functions, making it suitable for ACG-themed blogs. ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo)
