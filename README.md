@@ -183,11 +183,22 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
 </div>
 
 <script>
+  // 当前语言状态，默认英文
+  let currentLang = 'en';
+
   function switchLang() {
     const zh = document.getElementById("zh");
     const en = document.getElementById("en");
-    zh.style.display = zh.style.display === "none" ? "block" : "none";
-    en.style.display = en.style.display === "none" ? "block" : "none";
+
+    if (currentLang === 'en') {
+      en.style.display = "none";
+      zh.style.display = "block";
+      currentLang = 'zh';
+    } else {
+      zh.style.display = "none";
+      en.style.display = "block";
+      currentLang = 'en';
+    }
   }
 </script>
 
