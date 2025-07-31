@@ -1,11 +1,7 @@
-# 🌐 Language Selection | 语言选择
+## 🌐 Language Selection | 语言选择
 
-- [English](#english)
-- [中文](#中文)
-
----
-
-## English
+| [English](#english) | [中文](#中文) |
+|--------------------|--------------|
 
 ## Welcome to my **GitHub** home page~  
 
