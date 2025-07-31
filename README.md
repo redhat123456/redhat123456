@@ -1,14 +1,13 @@
-<!-- 设置语言切换按钮 -->
-<div style="position: absolute; top: 15px; right: 15px; z-index: 999;">
-  <button onclick="switchLang()" style="padding: 6px 14px; border-radius: 6px; border: 1px solid #ccc; background-color: #f9f9f9; cursor: pointer;">
-    🌐 中文 / English
-  </button>
-</div>
+# 🌐 Language Selection | 语言选择
 
-<!-- 英文版内容 -->
-<div id="en">
+- [English](#english)
+- [中文](#中文)
 
-## Welcome to my __GitHub__ home page~  
+---
+
+## English
+
+## Welcome to my **GitHub** home page~  
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" />  
@@ -25,18 +24,18 @@
   </a>  
 </p>
 
-<p align="center">👉<a  href="https://redhat123456.github.io/router_index/">Click here to navigate 😋</a>👈</p>  
+[👉 Click here to navigate 😋](https://redhat123456.github.io/router_index/)
 
-🎓 Hello! I'm a __Master's student in Mathematics__, currently studying at Guilin University of Electronic Technology (GUET).  
+🎓 Hello! I'm a **Master's student in Mathematics**, currently studying at Guilin University of Electronic Technology (GUET).  
 📌 My research interests include: `PINN`, `Spectral Methods`, `Scientific Computing`, and `Deep Learning`.  
 🚀 I'm passionate about coding, exploring, and sharing — dreaming of publishing (even water) papers, while staying grounded in both research and engineering.
 
 📝 Blog: `https://redhat123456.github.io/`  
 📮 Contact me:  
-- Submit an <a href="https://github.com/redhat123456/redhat123456/issues/new">issue</a>  
-- Or email me at `1907065810@qq.com`  
+- Submit an [issue](https://github.com/redhat123456/redhat123456/issues/new)  
+- Or email me at `1907065810@qq.com`
 
-## 🎯 Major Code Projects and Contributions
+### 🎯 Major Code Projects and Contributions
 
 + **WeChat Mini Programs**  
   - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise): A WeChat mini program that integrates exercise and fitness, video playback, and plan creation, supporting multi-platform deployment and featuring functions such as check-in records, plan reminders, and course recommendations. ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
@@ -52,21 +51,20 @@
   - [Maple](https://github.com/redhat123456/Maple): A lightweight online Markdown editor supporting real-time preview, LaTeX math formula rendering, theme switching, and export functionality, suitable for scientific writing and blog draft editing. ![](https://badgen.net/github/stars/redhat123456/Maple)  
   - [7th Institute Innovation Base Official Website](https://github.com/seven-innovation-base/official-website): An official website system developed for the 7th Institute Innovation Base, featuring modules such as news announcements, project showcases, and member profiles, with backend content management capabilities. ![](https://badgen.net/github/stars/seven-innovation-base/official-website)
 
+### 🏂 Major Research Projects and Contributions
 
-## 🏂 Major Research Projects and Contributions
-
-+ **Computational Mathematics**
++ **Computational Mathematics**  
   - [FEMATHS Group Official Website](https://github.com/FEMATHS/cm.femaths.space): An official website platform integrating computational mathematics learning resources, including paper reading records of FEMATHS group members, practical sharing of Physical Information Neural Networks (PINN), GitHub resource navigation, and more, aiming to build an online community for scientific research, learning, and collaboration. ![](https://badgen.net/github/stars/FEMATHS/cm.femaths.space)
 
 ---
 
-## 🚧 Ongoing Projects
+### 🚧 Ongoing Projects
 
 - **In-depth Research on the Integration of Physics-Informed Neural Networks (PINN) and Spectral Methods**  
   Currently focusing on exploring the integration of the PINN framework with high-precision spectral methods (such as Fourier spectral methods, Chebyshev polynomial methods, etc.). Research focuses include: how to use spectral methods to construct more accurate spatial derivative terms, improve the smoothness of residual calculations in PINN, and enhance network training efficiency and convergence speed through orthogonal bases in the frequency domain. The goal is to bridge the gap between classical numerical methods and deep learning models to enhance the ability to solve complex physical problems.
 
-- **Exploring the Potential of PINN in Modeling and Predicting the Navier–Stokes Equations**
-We are attempting to apply the PINN framework to solving the Navier–Stokes equations for incompressible fluids, studying the stability and predictive capabilities of the model under different boundary conditions and initial perturbations. We plan to adopt residual-driven non-uniform sampling strategies (such as Sobol sequences and Adaptive Sampling) to reduce training point waste, and introduce physical prior constraints to mitigate oscillation issues during training. The ultimate goal is to develop a generalizable PINN model capable of analyzing turbulent and boundary layer problems.
+- **Exploring the Potential of PINN in Modeling and Predicting the Navier–Stokes Equations**  
+  We are attempting to apply the PINN framework to solving the Navier–Stokes equations for incompressible fluids, studying the stability and predictive capabilities of the model under different boundary conditions and initial perturbations. We plan to adopt residual-driven non-uniform sampling strategies (such as Sobol sequences and Adaptive Sampling) to reduce training point waste, and introduce physical prior constraints to mitigate oscillation issues during training. The ultimate goal is to develop a generalizable PINN model capable of analyzing turbulent and boundary layer problems.
 
 - **Development of Multi-Scale, Interpretable Physical Neural Network Models**  
   In addition to traditional PINNs, we plan to introduce multi-scale nested network structures combined with uncertainty estimation methods to enhance modeling capabilities for complex dynamic systems. We will also explore integration with graph neural networks (GNNs) to handle scenarios involving irregular grids and non-uniform data. Additionally, we will attempt to explicitly incorporate boundary condition functions and conservation law constraints into the model to enhance its physical interpretability.
@@ -74,7 +72,7 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
 - **Developing research notes and teaching materials to promote community sharing**  
   We plan to organize past explorations in the integration of PINN, numerical methods, and deep learning, and compile them into a series of blogs or an online wiki. The content will cover classical equation solving (wave equations, diffusion equations, Navier-Stokes equations), model training techniques, error analysis methods, and more, gradually building a learning resource repository for both research newcomers and advanced users, which will be released on the FEMATHS official website.
 
-## 🍁 Self Notes
+### 🍁 Self Notes
 
 - Keep communication efficient and clear  
 - Work hard when studying, relax fully when resting  
@@ -86,40 +84,36 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
   <a href="https://www.zhihu.com/people/lan-de-qi-ming-liao-5" target="_blank">Zhihu</a>  
 </p>
 
-<b>  
-  <img src='https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm' height=141>  
-</b>  
-<b>  
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm' height=141>  
-</b>  
+**GitHub Stats**  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm)  
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default)  
 
-#### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📅 Wakatime codetime </a>
+[📅 Wakatime codetime](https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b)
 
-</div>
+---
 
-<!-- 中文版内容 -->
-<div id="zh" style="display:none">
+## 中文
 
-## 欢迎来到我的 __GitHub__ 主页~  
+## 欢迎来到我的 **GitHub** 主页~
 
 <p align="center">  
   （徽章同上）
 </p>
 
-<p align="center">👉<a  href="https://redhat123456.github.io/router_index/">点击我进行导航 😋</a>👈</p>  
+[👉 点击我进行导航 😋](https://redhat123456.github.io/router_index/)
 
-🎓 你好！我是 __桂林电子科技大学数学专业的硕士研究生__（目前在读研阶段）。  
+🎓 你好！我是 **桂林电子科技大学数学专业的硕士研究生**（目前在读研阶段）。  
 📌 我的研究方向包括：`PINN`、`谱方法`、`计算数学`、`深度学习`。  
 🚀 我热爱开发、探索和分享，梦想发一些 ~~顶刊~~ 水刊，在科研与工程路上脚踏实地前进。
 
 📝 博客地址：`https://redhat123456.github.io/`  
 📮 联系方式：  
-- 提交 <a href="https://github.com/redhat123456/redhat123456/issues/new">issue</a> 与我取得联系  
-- 或发送邮件至 `1907065810@qq.com` ，我会尽快回复你！
+- 提交 [issue](https://github.com/redhat123456/redhat123456/issues/new) 与我取得联系  
+- 或发送邮件至 `1907065810@qq.com`
 
-## 🎯 主要代码项目与贡献
+### 🎯 主要代码项目与贡献
 
 + **微信小程序**  
   - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：集运动健身、视频播放、计划制定于一体的微信小程序，支持多平台部署，已实现打卡记录、计划提醒、课程推荐等功能。![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
@@ -135,15 +129,14 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
   - [Maple](https://github.com/redhat123456/Maple)：轻量级在线 Markdown 编辑器，支持实时预览、LaTeX 数学公式渲染、主题切换及导出功能，适用于科研写作与博客草稿编辑。![](https://badgen.net/github/stars/redhat123456/Maple)  
   - [七院创新基地官网](https://github.com/seven-innovation-base/official-website)：为七院创新基地开发的官网系统，包含新闻公告、项目展示、成员介绍等多个模块，支持后台内容管理。![](https://badgen.net/github/stars/seven-innovation-base/official-website)
 
+### 🏂 主要科研项目与奉献
 
-## 🏂 主要科研项目与奉献
-
-+ **计算数学**
++ **计算数学**  
   - [FEMATHS 小组官网](https://github.com/FEMATHS/cm.femaths.space)：一个集成计算数学学习资源的官网平台，内容涵盖 FEMATHS 小组成员的论文阅读记录、物理信息神经网络（PINN）实践分享、GitHub 资源导航等，旨在打造一个科研学习与协作的在线社区。![](https://badgen.net/github/stars/FEMATHS/cm.femaths.space)
 
 ---
 
-## 🚧 正在进行中的计划
+### 🚧 正在进行中的计划
 
 - **深入研究 Physics-Informed Neural Networks（PINN）与谱方法的结合**  
   当前正在专注于探索 PINN 框架与高精度谱方法（如傅里叶谱法、Chebyshev 多项式方法等）之间的融合路径。研究重点包括：如何将谱方法用于构造更精确的空间导数项、改进 PINN 中残差计算的光滑性，以及如何通过频域上的正交基提升网络的训练效率与收敛速度。目标是打通经典数值方法与深度学习模型之间的桥梁，提升对复杂物理问题的求解能力。
@@ -157,7 +150,7 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
 - **构建科研笔记与教学材料，推动社区共享**  
   计划整理过去在 PINN、数值方法与深度学习结合方面的探索过程，并撰写成系列博客或在线 Wiki。内容涵盖经典方程求解（波动方程、扩散方程、NS 方程）、模型训练技巧、误差分析方法等，逐步构建一个面向科研新手与进阶用户的学习资源库，并在 FEMATHS 官网中逐步发布。
 
-## 🍁 自我提醒
+### 🍁 自我提醒
 
 - 避免不必要的沟通，表达简洁清晰  
 - 学习时全力以赴，玩耍时尽情放松  
@@ -169,36 +162,10 @@ We are attempting to apply the PINN framework to solving the Navier–Stokes equ
   <a href="https://www.zhihu.com/people/lan-de-qi-ming-liao-5" target="_blank">知乎</a>  
 </p>
 
-<b>  
-  <img src='https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm' height=141>  
-</b>  
-<b>  
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm' height=141>  
-</b>  
+**GitHub 统计**  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />  
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm)  
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm)  
+![GitHub 连续活跃天数](https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default)  
 
-#### <a href="https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b" target="_blank">📅 代码时长统计（Wakatime）</a>
-
-</div>
-
-<script>
-  // 当前语言状态，默认英文
-  let currentLang = 'en';
-
-  function switchLang() {
-    const zh = document.getElementById("zh");
-    const en = document.getElementById("en");
-
-    if (currentLang === 'en') {
-      en.style.display = "none";
-      zh.style.display = "block";
-      currentLang = 'zh';
-    } else {
-      zh.style.display = "none";
-      en.style.display = "block";
-      currentLang = 'en';
-    }
-  }
-</script>
-
+[📅 代码时长统计（Wakatime）](https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b)
