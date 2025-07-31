@@ -83,8 +83,3 @@
 
 [📅 Wakatime codetime](https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b)
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm)  
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm)  
-![GitHub 连续活跃天数](https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default)  
-
-[📅 代码时长统计（Wakatime）](https://gist.github.com/redhat123456/4ee62e60852b37982d499d809324675b)
