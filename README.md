@@ -75,7 +75,6 @@
 
 <image src='https://github-profile-trophy.vercel.app/?username=redhat123456&theme=nord'></image>
 
-<img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=default" />
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=default" />
