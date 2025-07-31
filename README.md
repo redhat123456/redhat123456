@@ -1,6 +1,6 @@
 ## 🌐 Language Selection | 语言选择
 
-| [English](#english) | [中文](#中文) |
+| [English](#Welcome to my **GitHub** home page~) | [中文](#欢迎来到我的 **GitHub** 主页~) |
 |--------------------|--------------|
 
 ## Welcome to my **GitHub** home page~  
@@ -90,14 +90,23 @@
 
 ---
 
-## 中文
 
 ## 欢迎来到我的 **GitHub** 主页~
 
 <p align="center">  
-  （徽章同上）
+  <img src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000" />  
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&labelColor=CCEEFF&logoColor=blue" />  
+  <img src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&labelColor=f7df1e&logoColor=000" />  
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff" />  
+  <img src="https://img.shields.io/badge/-Mathematica-cc0000?style=flat-square&logo=Wolfram&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-SPSS-006699?style=flat-square&logo=IBM&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-SAS-0071C5?style=flat-square&logo=SAS&logoColor=white" />  
+  <a href="https://wakatime.com/@af33183b-1f14-4919-b7f7-17da9ae5e142">  
+    <img src="https://wakatime.com/badge/user/af33183b-1f14-4919-b7f7-17da9ae5e142.svg" alt="wakatime" />  
+  </a>  
 </p>
-
 [👉 点击我进行导航 😋](https://redhat123456.github.io/router_index/)
 
 🎓 你好！我是 **桂林电子科技大学数学专业的硕士研究生**（目前在读研阶段）。  
