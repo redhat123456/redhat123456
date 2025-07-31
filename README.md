@@ -15,7 +15,7 @@
   </a>  
 </p>
 
-[👉 Click here to navigate 😋](https://redhat123456.github.io/router_index/)
+<p align="center">👉 <a href="https://redhat123456.github.io/router_index/">Go to Portal 😋</a> 👈</p>
 
 🎓 Hello! I'm a **Master's student in Mathematics**, currently studying at Guilin University of Electronic Technology (GUET).  
 📌 My research interests include: `PINN`, `Spectral Methods`, `Scientific Computing`, and `Deep Learning`.  
