@@ -15,6 +15,10 @@
   </a>  
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,mysql,idea,git,github,redis,vscode,Vue,react,javascript,html,css,spring,matlab,python" />
+</div>
+
 <p align="center">👉 <a href="https://redhat123456.github.io/router_index/">Go to Portal 😋</a> 👈</p>
 
 🎓 Hello! I'm a **Master's student in Mathematics**, currently studying at Guilin University of Electronic Technology (GUET).  
