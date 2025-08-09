@@ -80,6 +80,7 @@
 </p>
 
 **GitHub Stats**  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=redhat123456" /> </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm)  
