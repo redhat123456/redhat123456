@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,idea,git,github,vscode,vue,react,javascript,html,css,matlab,python,npm,ps,pr,latex,less,linux,md,notion,postman,pycharm,pytorch,r,ts,webpack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,ts,html,css,less,latex,md,vue,react,nodejs,pytorch,webpack,mysql,idea,git,github,vscode,matlab,npm,ps,pr,linux,notion,postman,pycharm" />
 </div>
 
 <p align="center">👉 <a href="https://redhat123456.github.io/router_index/">Go to Portal 😋</a> 👈</p>
