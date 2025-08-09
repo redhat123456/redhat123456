@@ -82,19 +82,23 @@
 **GitHub Stats**  
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- 第一排：Trophy + Languages -->
+  <!-- 第一排：Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=redhat123456&theme=calm_pink&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+
+  <!-- 第二排：Languages + Stats -->
   <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-profile-trophy.vercel.app/?username=redhat123456&theme=calm_pink&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true" alt="GitHub Stats" />
   </div>
 
-  <!-- 第二排：Stats + Streak -->
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
-  </div>
+  <!-- 第三排：Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
+
+  <!-- 第四排：Followers -->
+  <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&card_width=300&show=followers" alt="GitHub Followers" />
 
 </div>
+
 
 
 
