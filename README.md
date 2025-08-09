@@ -82,19 +82,20 @@
 **GitHub Stats**  
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=redhat123456&theme=calm_pink&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <!-- 第一排：Trophy + Languages -->
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-profile-trophy.vercel.app/?username=redhat123456&theme=calm_pink&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" />
+  </div>
 
-  <!-- Stats & Streak -->
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <!-- 第二排：Stats + Streak -->
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
   </div>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" />
-
 </div>
+
 
 
 
