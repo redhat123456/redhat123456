@@ -1,4 +1,5 @@
-name: Sync Gist to README
+Just defaults:
+  biname: Sync Gist to README
 
 on:
   workflow_dispatch:
