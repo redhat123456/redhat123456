@@ -26,16 +26,21 @@ jobs:
       - name: Replace Gist content in README.md
         run: |
           if grep -q "<!-- START_WakaGIST -->" README.md && grep -q "<!-- END_WakaGIST -->" README.md; then
-            echo "📝 Replacing old content between START_GIST and END_GIST..."
             awk '
-              BEGIN { start=0 }
-              /<!-- START_WakaGIST -->/ { print; print_file="gist_wrapped.txt"; start=1; next }
-              /<!-- END_WakaGIST -->/ { start=0 }
-              start==0 { print }
+            /<!-- START_WakaGIST -->/ {
+              print
+              while ((getline line < "gist_wrapped.txt") > 0)
+                print line
+              skip=1
+              next
+            }
+            /<!-- END_WakaGIST -->/ {
+              skip=0
+            }
+            !skip {print}
             ' README.md > README.tmp && mv README.tmp README.md
-            sed -i '/<!-- START_WakaGIST -->/r gist_wrapped.txt' README.md
           else
-            echo "❌ README.md 中缺少 <!-- START_WakaGIST --> 和 <!-- END_WakaGIST -->，无法插入内容。"
+            echo "Missing Waka markers"
             exit 1
           fi
 
