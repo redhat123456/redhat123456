@@ -32,10 +32,10 @@
 
 ### 🎯 主要代码项目与贡献
 
-+ **微信小程序** - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：集运动健身、视频播放与计划制订于一体的跨平台小程序，支持打卡、提醒及课程推荐。 ![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)  
-  - [Tanger_query](https://github.com/redhat123456/Tanger_query)：界面清爽的多功能查询小程序，涵盖天气预报、快递物流追踪等实用功能。 ![](https://badgen.net/github/stars/redhat123456/Tanger_query)
++ **微信小程序** - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：集运动健身、视频播放与计划制订于一体的跨平台小程序，支持打卡、提醒及课程推荐。 ![](https://cdn.jsdelivr.net/gh/redhat123456/upPhysicalExercise@main/.github/badges/stars.svg)
+  - [Tanger_query](https://github.com/redhat123456/Tanger_query)：界面清爽的多功能查询小程序，涵盖天气预报、快递物流追踪等实用功能。![](https://cdn.jsdelivr.net/gh/redhat123456/Tanger_query@main/.github/badges/stars.svg)
 
-+ **Hexo 主题** - [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)：仿米哈游官网风格的博客主题，含渐变背景与交互动画，支持分类导航与访客统计，适配二次元向博客。 ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo)
++ **Hexo 主题** - [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)：仿米哈游官网风格的博客主题，含渐变背景与交互动画，支持分类导航与访客统计，适配二次元向博客。 ![](https://cdn.jsdelivr.net/gh/redhat123456/hexo-theme-MiHoYo@main/.github/badges/stars.svg)
 
 + **前端页面** - [resume](https://github.com/redhat123456/resume)：现代化的响应式个人简历模板，支持中英双语切换及在线展示与 PDF 导出。 ![](https://badgen.net/github/stars/redhat123456/resume)
 
