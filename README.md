@@ -70,23 +70,29 @@
   <a href="https://www.zhihu.com/people/lan-de-qi-ming-liao-5" target="_blank">Zhihu</a>  
 </p>
 
-**GitHub Stats**  
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+## 📊 GitHub Stats
 
-  <!-- 第一排：Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=redhat123456&theme=calm_pink&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+<div align="center">
 
-  <!-- 第二排：Followers + Languages -->
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&card_width=300&show=followers" alt="GitHub Followers" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhat123456&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" />
-  </div>
+<!-- Profile -->
+<img src="https://img.shields.io/github/followers/redhat123456?style=flat-square&logo=github&label=Followers" />
 
-  <!-- 第三排：Stats + Streak -->
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=redhat123456&show_icons=true&theme=calm_pink&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redhat123456&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
-  </div>
+<img src="https://img.shields.io/github/stars/redhat123456/hexo-theme-MiHoYo?style=flat-square&logo=github&label=MiHoYo%20Theme" />
+
+<img src="https://img.shields.io/github/stars/redhat123456/Maple?style=flat-square&logo=github&label=Maple" />
+
+<img src="https://img.shields.io/github/stars/FEMATHS/cm.femaths.space?style=flat-square&logo=github&label=FEMATHS" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/github/languages/top/redhat123456/Maple?style=flat-square" />
+
+<img src="https://img.shields.io/github/last-commit/redhat123456/Maple?style=flat-square" />
+
+<img src="https://img.shields.io/github/repo-size/redhat123456/Maple?style=flat-square" />
 
 </div>
 
