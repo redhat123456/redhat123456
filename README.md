@@ -105,8 +105,8 @@
 
 <!-- START_WakaGIST -->
 ```text
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+Python......... 12m 53s .........................1.8%
+Other.......... 11h 43m ........................98.2%
 ```
 <!-- END_WakaGIST -->
 把这个改得简洁一点并使用中英文两版
